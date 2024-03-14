@@ -8,7 +8,7 @@ Full Stack Engineer
 
 * 🌍  I'm based in Los Angeles , California
 * ✉️  You can contact me at [anthonyakor70@gmail.com](mailto:anthonyakor70@gmail.com)
-* 🧠  I'm learning Kubernetes,
+* 🧠  I'm learning Kubernetes
 
 ### Skills
 
